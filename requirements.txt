@@ -1,1 +1,3 @@
-f
+shiny==0.8.1
+pandas==2.2.2
+nilearn==0.10.4
